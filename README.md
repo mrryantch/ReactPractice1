@@ -1,8 +1,4 @@
 
-## ReactPractice1 Table of contents
-* [Introduction](#introduction)
-* [Technologies](#technologies)
-* [Improvement from the tutorial](#Improvement-from-the-tutorial)
 
 # Introduction
 This project aims to improve react programming skills by following tutorials online, as I code and watch the tutorial at the same time. <br />
