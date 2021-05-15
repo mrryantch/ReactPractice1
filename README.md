@@ -10,7 +10,7 @@ I have followed a tutorial on Youtube by Traversy Media. (Much Appreciated) <br 
 Source of the project: [Source](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&ab_channel=TraversyMedia)
 
 # Technologies
-React, React Context, Javascript
+React, React Context, Javascript, React Components
 
 # Improvement from the tutorial
 
