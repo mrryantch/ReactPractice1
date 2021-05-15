@@ -6,7 +6,7 @@
 
 # Introduction
 This project aims to improve react programming skills by following tutorials online, as I code and watch the tutorial at the same time. <br />
-
+I have followed a tutorial on Youtube by Traversy Media. (Much Appreciated) <br />
 Source of the project: [Source](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&ab_channel=TraversyMedia)
 
 # Technologies
